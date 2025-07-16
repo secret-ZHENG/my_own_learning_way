@@ -5,8 +5,5 @@ Algorithmic complexity / Big-O / Asymptotic analysis
 
 [Algorithmic complexity / Big-O / Asymptotic analysis](url)
 
-<a name="Algorithmic complexity / Big-O / Asymptotic analysis"></a>
 
-
-[A link to that custom anchor](#Algorithmic complexity / Big-O / Asymptotic analysis)
 
