@@ -7,7 +7,7 @@
     <element attribute="value"></element>  
 1. the URL of a link :
 ```{<a href="https://www.example-website.com">Visit our Website</a>}```
-3. image :
+3. image :  
          <img src="image.jpg" alt="A beautiful image" />  
 notes:   
 src = source ;  
