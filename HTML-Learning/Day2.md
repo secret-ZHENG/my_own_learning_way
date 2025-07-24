@@ -1,0 +1,20 @@
+# Day 2
+# HTML Boilerplate
+### 1. link element  
+  <link rel="stylesheet" href="./styles.css"/>    
+notes:      
+rel = specify the relationship between the linker source and HTML document     
+function : instead writing everything in HTML     
+### 2. head element    
+```
+{
+<head>    
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Example of the link element</title>
+  <link rel="stylesheet" href="./styles.css"/>
+</head>
+}
+```
+
+  
