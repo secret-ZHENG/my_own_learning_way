@@ -13,4 +13,5 @@ def Binary_Gap(n):
             current_gap = 0
         else :
             current_gap += 1
+        n >>= 1
     return max_gap
