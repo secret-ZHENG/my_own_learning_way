@@ -24,7 +24,13 @@ I find a book about algorithmic in Chinese. It helps me to understand these and 
 1.Big-O explain time complexity which is used to describe running time of algorithmic.
 
 #### Data Structure  
-##### Arrays
+##### Arrays   
+
+## Book   
+### Already done book
+#### Reading book
+1. 《Elements  of  Programming  Interviews in Python》
+
 
 
 
