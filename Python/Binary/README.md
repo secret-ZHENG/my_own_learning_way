@@ -11,7 +11,7 @@
 bin(x)      # '0b010'
 bin(x)[2:]  # '010'
 ```
-3. use format string
+2. use format string
 ``` python
 f"{x:b}"        # '010'   
 format(x,'b')   # '010'
