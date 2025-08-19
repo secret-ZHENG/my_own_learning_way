@@ -32,5 +32,23 @@ I find a book about algorithmic in Chinese. It helps me to understand these and 
 1. 《Elements  of  Programming  Interviews in Python》
 
 
+### Day 001
+#### 1. reading book 《Elements  of  Programming  Interviews in Python》-Arrays-P7-8  
+1. in-place algorithm : even_odd arrays  
+##### My question:
+1. what is without extra storage  
+   techniacl requirments:
+    a.operate directly on the input data structure  
+    b.constant extra storage  
+    c.no data duplication
+   When to use :
+    1.memory is scarce
+    2.data size is huge
+    3.performance-critical
+    4.temporary transformation- no need of original data
+    5.intermediate step
+2.
+
+
 
 
