@@ -20,7 +20,7 @@ def even_odd(A):
             next_even +=1
         else :
             A[next_even], A[next_odd] = A[next_odd],A[next_even]
-            next_od
+            next_odd -=1
     
 
 if __name__ == "__main__":
