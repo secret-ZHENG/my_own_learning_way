@@ -15,3 +15,21 @@ class Solution:
                 if nums[i] == nums [j] and i < j:
                     counts += 1
         return counts
+
+2.0ms
+Time Flexiable : O(n)
+Space Flexiable :O(n)
+class Solution:
+    def numIdenticalPairs(self, nums: List[int]) -> int:
+        counter = [0 for _ in range(101)]
+        result = 0
+        for num in muns:
+            result += counter[num]   
+            counter[num] += 1   
+        ‘’‘优化下面循环
+        for num in nums :
+            counter[num] += 1
+        for count in counter :
+            result += (count) * (count -1) // 2
+            ’‘’
+        return result
