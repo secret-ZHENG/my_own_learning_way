@@ -12,8 +12,9 @@ class Solution:
                         ans += 1
         return ans
 
+
 ''' 2.Optimize enumeration  
-Time O(n(n+S))  n = len(arr), S = max(arr)=1000    
+Time O(n(n+S))  n = len(arr), S = max(arr)=1002      
 Space O(S)   
 Q1:why use the last for loop ?
 A1: in the for loop of j, when j add 1, we have to update arr[j] in the ARRAY[count]. 
@@ -37,4 +38,19 @@ class Solution:
             for k in range(arr[j]+1,1002):
                 count[k] += 1
         return array_num
+
+
+'''3. sort + List the middle + three pointer
+Time O()
+Space O()
+When the number increase very large, time flexibility will be big. Then we need to let it get rid of max(arr)
+'''  
+
+
+
+
+
+
+
+
 
