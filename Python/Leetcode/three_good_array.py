@@ -16,7 +16,7 @@ class Solution:
 Time O(n(n+S))  n = len(arr), S = max(arr)=1000    
 Space O(S)   
 Q1:why use the last for loop ?
-A1:we can reduce the caculate between arr[j]+1 ~ 1010, which can increase caculating speed.
+A1: in the for loop of j, when j add 1, we have to update arr[j] in the ARRAY[count]. 
 '''
 class Solution:
     def countGoodTriplets(self, arr: List[int], a: int, b: int, c: int) -> int:
