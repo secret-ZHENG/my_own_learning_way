@@ -1,4 +1,4 @@
-def array_test():
+def array_test_1():
     ar = [1,4,25,543,74,86,3,2,6,7,8]
     print(ar, "is initial array.")
 
@@ -17,11 +17,22 @@ def array_test():
     print("sorted return: ", sorted(ar)) # list array from mix to max
 
     ar.sort()
-    print("sorted in place: ", ar)
+    print("sorted in place: ", ar)  
+
 
 def main():
-    array_test()
+    array_test_1()
 
 
 if __name__ == '__main__' :
     main()
+
+
+
+
+
+
+
+
+
+
