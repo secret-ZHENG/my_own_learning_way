@@ -22,10 +22,14 @@ a. list accroding to the number of arr[i]
      idx = sorted(range(len(arr)), key=lambdai: (arr[i], i))
      ➡️ [0, 2, 1, 3]
      ```
-  4)use numpy
+   4)use numpy
      ```
      import numpy as np  
      arr = np.array[50,30,40,10]
      idx = np.argsort(arr)
-     ```
+     ```  
+
+  3. List comprehension
+     EFFECT: We can use it to create a sequence in a compact manner.
+     PS: a = [arr[i] for i in idx if i%2 == 0 ]
      
