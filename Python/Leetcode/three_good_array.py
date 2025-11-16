@@ -41,10 +41,29 @@ class Solution:
 
 
 '''3. sort + List the middle + three pointer
-Time O()
-Space O()
+Time O(n^2)
+Space O(n)
 When the number increase very large, time flexibility will be big. Then we need to let it get rid of max(arr)
 '''  
+class Solution:
+    def countGoodTriplets(self, arr: List[int], a: int, b: int, c: int) -> int:
+        # 1. create a sorted arr
+        idx = sorted(range(len(arr)),key = lambda i: arr[i])
+        # 2. binary 
+        array_number = 0
+        for j in idx :
+            y = arr[j]
+            left = [arr[i] for i in idx if i < j and abs(arr[i] - y) <= a ]
+            right = [arr[k] for k in idx if k > j and abs(arr[k] - y) <= b ]
+        # 3. List left, and search element in right
+            k1 = k2 = 0
+            for x in left :
+                while k1 < len(right) and right[k1] <= x + c :
+                    k1 += 1
+                while k2 < len(right) and right[k2] < x - c :
+                    k2 += 1
+                array_number += k1 - k2
+        return array_number
 
 
 
