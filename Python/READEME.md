@@ -1,3 +1,11 @@
+* Basic mathmatic
+1. # 10^5
+    10 ** 5
+2. # 31 ➗ 3 = 10......1
+    a = 31//3 = 10
+       b = 31%3 = 1
+
+
 * Basic function
 1.ord(i):return the Unicode of a string.
   ``` ord('a') ```   
