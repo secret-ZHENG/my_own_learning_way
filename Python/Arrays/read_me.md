@@ -10,7 +10,20 @@ Implement a vector (mutable array with automatic resizing):
 ## 3.comprehension of code
 * size()-number of items   
 * capacity()-number of items it can hold   
-* is_empty()-check whether a data structure contains no elements
-* at(index) - returns the item at a given index, blows up if index out of bounds
+* is_empty()-a method name convention to check whether a data structure contains no elements
+    used for: data structures like list, stacks, queues, trees, etc.
+    benefit: better readability, encapsulation, consistent interface
+* at(index) - returns the item at a given index, blows up if index out of bounds   
+  ```
+  # safe element access with default
+  def safe_at(collection, index. default = None):
+    try:
+      return collection[index]
+    except (IndexError, KeyError):
+      return default
+  # usage
+  my_list = [1, 2, 3]
+  print(safe_at(my_list, 5, 'Not found'))
+  ```
 * 
 
