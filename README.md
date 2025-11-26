@@ -47,7 +47,10 @@ I find a book about algorithmic in Chinese. It helps me to understand these and 
     3.performance-critical
     4.temporary transformation- no need of original data
     5.intermediate step
-2.
+
+### Day 003
+#### 1.Learning Viedo:  Linked Lists CS50 Harvard University 
+##### 1.elments in list is located in uncontinuous place.
 
 
 
