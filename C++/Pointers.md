@@ -26,6 +26,12 @@
      cin.get();
    }
    ```
+   5).
+   ```
+   int *ptr = new int;  //
+   delete ptr;  // free up memory allocated through new
+   ```
+   
    
    
      
