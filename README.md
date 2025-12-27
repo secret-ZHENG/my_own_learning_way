@@ -57,6 +57,7 @@ Mine :
 Mine:
    1.the C code made me confused, I think I should learn some basic syntax of C, I found a four-hours video for new C++ learners. Project to learn it.       
    2.to be a software engernieer? or font? or full-stuck? Must to be cleared!  
+## Pointers in C++
    
 
 
