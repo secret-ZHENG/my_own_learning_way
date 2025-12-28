@@ -14,21 +14,23 @@
      '{n,}' : match at least n times   
      '{n,m}': match more than n times, less than m times    
 ## character match   
-     '\d]\' : match random number character   
-     '\w' : match random char character   
+     '\d' : match random number character   
+     '\w' : match random char character(= [A-Za-z0-9])      
 ## Character    
      '[]' : match what in '[]'
      '[^]' : match what out of '[]'   
 ## boundary
      '^' and '$' : begin and end
-     '\b': word  
-     '\B' : nonword   
+     '\b': word boundary   
+     '\B' : nonword boundary   
 ## group and capture          
     '()' and '(?:)' : group & capture and group & no capture   
 ## special   
      '\' : match special character itself   
-     '.' : match random character (exp change line)   
+     '.' : match random character (exp change line--\n & \r)   
      '|' : choice of many models   
+     '\s\S': match all whitespace (include liner), all non whitespace   
+     
      
 
    
