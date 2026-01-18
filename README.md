@@ -60,7 +60,7 @@ Mine:
 ## Pointers in C++
 
 # Day  005    
-## 1。Regular Expression (AKA: Regex or RegExp)   
+## 1. Regular Expression (AKA: Regex or RegExp)   
 
 # Day 006    
 ## 1.Lesson learning
@@ -69,6 +69,9 @@ Dynamic arrays (AKA: resizable arrays)
 ``` int *my_array = new int[size]```    
 Get(i) : returns element at location i*   
 Set(i, val): sets element i to val*   
+
+# Day 007   
+## 1. HTML   
 
 
  
