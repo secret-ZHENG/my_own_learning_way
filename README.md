@@ -59,11 +59,19 @@ Mine:
    2.to be a software engernieer? or font? or full-stuck? Must to be cleared!  
 ## Pointers in C++
 
-# Day  005。 
+# Day  005    
 ## 1。Regular Expression (AKA: Regex or RegExp)   
 
+# Day 006    
+## 1.Lesson learning
+1.Data Structures (Jwasham): Arrays + SIngle-Linked List + Double-Linked List + Dynamic Arrays
+Dynamic arrays (AKA: resizable arrays)   
+``` int *my_array = new int[size]```    
+Get(i) : returns element at location i*   
+Set(i, val): sets element i to val*   
 
 
+ 
 
 
 
