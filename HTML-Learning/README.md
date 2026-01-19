@@ -3,3 +3,41 @@
 # Day 002   
 
 # Day 003   
+1.  What is it?   
+content : HTML   
+Presentation: CSS   
+Programming language : JS   
+2. Install   
+VScode: Prettier  ➡️  setting: format ： Prettier ➡️ format on save ➡️ auto save ➡️ tab size : 2
+Vscode: one monokai
+Vscode : settings : file icon theme :  Seti   
+3. First Test   
+  First: make index always your first html(it is the default name of any website)
+  Seconed: create and open HTML File, add some code, and open it at Google.
+
+# Day 004   
+1. basic syntax
+element : 
+```
+ <p>HTML is a make up language</p>  
+# '<p>' : opening tag   + content + '</p>' : endding tag
+```
+first :  clarify doc-type
+second : content   
+  head : cannot be visible    
+  body : can be see    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
