@@ -43,7 +43,31 @@ second : content
    ```<img src="post-img.jpg" alt="HTML code on a screen"/>```
 8) language : a HTML attribute : ```<lang=" ">```
 9) metadata : ```<meta charset="UTF-8" />```
-10) 
+
+# Day 006  
+1. Hyperlink : category to our own website and outside of ours.
+2. OUTSIDE  
+   a.every website on internate has its own URL  
+   b."a": anchor
+     "href" : attribute
+   c. ```target = "_black"``` open a link in a new web
+   d."#" : point to non place
+   e."nav" :navigation element : create an invisible box to make HTML structure clearly
+    "div" : a new box without any meaning   
+   d."header" : element :  the top part of a page
+    "article" :  element
+   f."footer" :element : text or create a paragraph
+    "c" : ```&copy;```
+   g. make HTML avaiable to search engine and people rely on screen reader
+
+# Day 007
+1. install at VS code  
+   image preview    
+   color highlight
+   auto rename tag : close will change with you change open tag
+   live server : page change with your code automacially
+2. "aside" element : secondary information  
+   
    
    
 
