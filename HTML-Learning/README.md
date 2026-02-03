@@ -107,7 +107,28 @@ second : content
    color highlight
    auto rename tag : close will change with you change open tag
    live server : page change with your code automacially
-2. "aside" element : secondary information  
+2. "aside" element : secondary information
+
+# Day 008 
+CSS : Cascading Style Sheets : describe the visual style and prensentation of the content written in HTML  
+1.CSS Rule : Selector {declaration block}  
+2.internal, inline and outline CSS  
+3. "link" element : connecting css style file : use at head of a html  
+    “href" : point to the css file;  
+    "rel"(relation): clear the relationship between html and css;  
+
+# Day 009 
+CSS elements  
+1.font
+    font-size:26px...  
+    font-family:Times New Roman...  
+    font-style: italic...  
+    text-transform:uppercase......  
+    text-align:center/left......  
+    line-height:  
+2.descendant selector 
+
+
    
    
    
