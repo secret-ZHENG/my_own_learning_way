@@ -127,6 +127,34 @@ CSS elements
     text-align:center/left......  
     line-height:  
 2.descendant selector 
+footer p{}  
+article header p{}  
+3.id selector  "#author{}"  : each can only be used once  
+"/*   */" : hide in CSS    
+4. class attribute ".author{}"      
+
+# Day 010    
+1.color attribute : RGB(RGBA) & Hexidaminl color   
+``` color : #444   
+background-color: #f7f7f7```
+
+2.border: border weight, style and color
+"solid" : a line in stright
+
+3.pseudo class   
+a."li:first-child" & "li:nth-child(2/odd/2n+1)"
+b.styling link-- LVHA
+```a{}```
+```a:link{}```
+element: a:link/visited/hover/active
+attribute: color/font-weight/text-decoration/font-style/background-color   
+
+# Day 011
+1.google chrome dev tools
+three ways to open and help us create websites more effencient
+
+2. CSS Theory:
+CONFLICTS BETWEEN SELECTORS
 
 
    
