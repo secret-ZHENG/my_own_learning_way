@@ -136,7 +136,8 @@ article header p{}
 # Day 010    
 1.color attribute : RGB(RGBA) & Hexidaminl color   
 ``` color : #444   
-background-color: #f7f7f7```
+background-color: #f7f7f7
+```   
 
 2.border: border weight, style and color
 "solid" : a line in stright
@@ -155,6 +156,10 @@ three ways to open and help us create websites more effencient
 
 2. CSS Theory:
 CONFLICTS BETWEEN SELECTORS
+
+3.inheritance-- easy overwriten  
+
+# Day 012  
 
 
    
