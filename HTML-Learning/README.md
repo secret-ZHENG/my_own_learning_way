@@ -159,7 +159,20 @@ CONFLICTS BETWEEN SELECTORS
 
 3.inheritance-- easy overwriten  
 
-# Day 012  
+# Day 012    
+1.CSS box  model  
+content-padding-border-margin     
+padding:20px 40px; --20px is bottom and top, 40px is left and right.  
+margin: outside element;  
+padding: outside content but in element;
+“width: 100%" : always occupies 100% of the page  
+2. How to make the content always be in center?  
+put all in a container - "margin-left/right: auto" : the page will always be in  center  
+
+
+
+
+
 
 
    
