@@ -168,6 +168,14 @@ padding: outside content but in element;
 “width: 100%" : always occupies 100% of the page  
 2. How to make the content always be in center?  
 put all in a container - "margin-left/right: auto" : the page will always be in  center  
+3.CSS box  
+first clear all the margin and padding default styles, then reset new model  
+4.pseudo element"::": do not exist in HTML, only in CSS   
+pseudo class":"  
+adjcent sibling selector: "+"  
+after & before   
+
+# Day 013
 
 
 
