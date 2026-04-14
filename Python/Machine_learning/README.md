@@ -13,6 +13,17 @@
 "{j:0.2e-03}" : exponential appearence : = 0.0002  
 "8.4f" : 8 width and 4 number after point, f is fixed-point  
 
+5. ```
+   try :
+      # error
+   except Exception as e:
+   ```
+   "except" : attain all abnormality include system exit, but cannot get abnormality object
+   "except ValueError" : only get special abnormality, such as number error
+   "except Exception as e" : get common abnormality except system exit, keyboard pause, etc.
+
+   
+
 
 
 
