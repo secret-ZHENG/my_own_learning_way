@@ -21,6 +21,10 @@
    "except" : attain all abnormality include system exit, but cannot get abnormality object
    "except ValueError" : only get special abnormality, such as number error
    "except Exception as e" : get common abnormality except system exit, keyboard pause, etc.
+   
+6. "np.dot(a,b)" : a0*b0 + a1*b1 + ... + an*bn   
+
+
 
    
 
