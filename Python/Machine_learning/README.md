@@ -4,7 +4,7 @@
    
 2."import math/copy"   
 &  math:provide math function and parameters like pi : can influen the origin     
-&  copy: provide "copy.copy()" and "copy.deepcopy"   
+&  copy: provide "copy.copy()" and "copy.deepcopy"     
    
 3."math.ceil" : return the minimum integer which >= the given count  
 "math.floor" : return the maxmum integer which <= the given count   
@@ -22,7 +22,11 @@
    "except ValueError" : only get special abnormality, such as number error
    "except Exception as e" : get common abnormality except system exit, keyboard pause, etc.
    
-6. "np.dot(a,b)" : a0*b0 + a1*b1 + ... + an*bn   
+6. "np.dot(a,b)" : a0*b0 + a1*b1 + ... + an*bn
+
+7."np.set_printoptions(precision=2)" : set print type format , 2number after point  
+
+
 
 
 
