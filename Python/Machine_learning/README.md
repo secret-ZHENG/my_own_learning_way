@@ -24,7 +24,11 @@
    
 6. "np.dot(a,b)" : a0*b0 + a1*b1 + ... + an*bn
 
-7."np.set_printoptions(precision=2)" : set print type format , 2number after point  
+7."np.set_printoptions(precision=2)" : set print type format , 2number after point   
+
+8."x.reshape(-1,1)": trans the array to n row 1column    
+"data[:, 0]": crasp all rows at 0 column  
+
 
 # matplotlib  
 1. plt.plot: suitable for line charts   
