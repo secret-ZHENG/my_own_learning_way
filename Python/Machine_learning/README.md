@@ -26,6 +26,17 @@
 
 7."np.set_printoptions(precision=2)" : set print type format , 2number after point  
 
+# matplotlib  
+1. plt.plot: suitable for line charts   
+   plt.scatter: No lines, only dots, with individual color and size control for each dot.
+2. plt.scatter(x, y, s=None, c=None, marker='o', alpha=None, ...)
+   x,y : coordinates   
+   c: the color of point
+   marker : the shape of the point (like 'o' circle, '^' triangle  
+   alpha: transparency (0 to 1)
+   
+   
+   
 
 
 
